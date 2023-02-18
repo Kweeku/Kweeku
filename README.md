@@ -3,11 +3,12 @@
 ### <div align="center">I'm Benedict, a mobile applications developer with a background in Embedded Systems Engineering and AI.</div>  
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Frontend  
 <div align="center">  
