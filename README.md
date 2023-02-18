@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Benedict Adu </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Benedict+Adu..&hearts;++;London+App+Brewery+Trained+Mobile-App+Developer,;Electrical+Engineering+Graduate,;Embedded+Systems+Engineer,;Dev-Ops+Engineer,;Love+To+Innovate+And+Build+Solution+Oriented+Products..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Benedict+Adu..&hearts;++;London+App+Brewery+Trained+Mobile-App+Developer,;Electrical+Engineering+Graduate,;Embedded+Systems+Engineer,;Dev-Ops+Engineer,;&hearts..+Innovation+Building..<3"></a>
 </p>
 
 
