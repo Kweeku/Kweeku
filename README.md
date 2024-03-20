@@ -73,9 +73,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kweeku&theme=windows-dark&border_radius=10&mode=weekly)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kweeku&layout=compact&theme=vision-friendly-dark)](https://github.com/Kweeku/github-readme-stats)
-<br>
-[![Benedict's Github Stats](https://github-readme-stats.vercel.app/api?username=Kweeku&count_private=true&theme=dark&show_icons=true)](https://github.com/Kweeku)
-<br>
+
 -----
 
 <br>
